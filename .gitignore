@@ -80,6 +80,8 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 C1.0_SBG_house_rocket.ipynb
+setup.sh
+Procfile
 
 # IPython
 profile_default/
